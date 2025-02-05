@@ -1,4 +1,4 @@
-# Kanhaiya35
+# Kanhaiya Parihar
 # 🚀 About Me  
 
 Hi there! 👋 I'm a **Cloud & Java Developer** with a strong interest in **cybersecurity, AWS, and data structures & algorithms (DSA)**.  
